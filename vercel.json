@@ -1,10 +1,7 @@
-<<<<<<< HEAD
-=======
 {
-  "rewrites": [
-    { "source": "/", "destination": "/homepage.htm" }
-  ],
-  "cleanUrls": true,
-  "trailingSlash": false
+  "rewrites": [
+    { "source": "/", "destination": "/homepage.htm" }
+  ],
+  "cleanUrls": true,
+  "trailingSlash": false
 }
->>>>>>> 2efc70ada78453b415c2743f5d6258aabcd6dd4c
